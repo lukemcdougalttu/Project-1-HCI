@@ -1,3 +1,3 @@
 # Project-1-HCI
 
-!(Images/microwave-cropped.png)
+![alt text](Images/microwave-cropped.png)
