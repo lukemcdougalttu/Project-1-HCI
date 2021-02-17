@@ -5,3 +5,10 @@
 
 Some of the Issues with the design of the microwave and its functionality:
 
+*
+*
+*
+*
+*
+
+
