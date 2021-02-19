@@ -23,18 +23,29 @@ Some of the Issues with the design of the microwave and its functionality:
 * List your most common uses and other more rare uses of a microwave. Does the interface make doing those common things easier?
 
 Common uses:
-* To heat up food
-* Timer
+* Microwave ovens used for reheating and cooking
+
+* Food processing applications
+
+* Pre-heating applications
+
+* Pre-cooking
 
 Rare Uses: 
+* Wireless Communications
+* Military and Radar
+* Research Applications
 
 * Think about how the user interacts with the microwave. What is the common sequence of actions?
 
 * How does the microwave support the user figure out how to make it work?
 
 * How does the microwave provide feedback to the user?
+By turning on a light and showing a timer on the screen.
 
 * What are some common mistakes you can make with this current design?
+* Under cooking 
+* Over cooking 
 
 * Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
 
