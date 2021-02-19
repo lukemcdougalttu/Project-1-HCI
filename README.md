@@ -38,6 +38,14 @@ Rare Uses:
 
 Think about how the user interacts with the microwave. What is the common sequence of actions?
 
+1. Push the big round button to open the door
+2. Put food on the glass 
+3. Close the door
+4. Type how long you want the food to be heated for by pushing on the numberpad
+5. Push start
+6. Wait for time to hit 0:00 
+7. Open door and take food out 
+
 How does the microwave support the user figure out how to make it work?
 
 How does the microwave provide feedback to the user?
