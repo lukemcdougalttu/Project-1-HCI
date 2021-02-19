@@ -18,4 +18,6 @@ Some of the Issues with the design of the microwave and its functionality:
 * The start and the +30 seconds are on the same button. 
 ![alt text](Images/start.jpg)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
