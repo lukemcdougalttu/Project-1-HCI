@@ -5,6 +5,8 @@
 
 Some of the Issues with the design of the microwave and its functionality:
 
+
+
 * If you push the Auto run but you get 5 food options that come with set times. But it not super clear.
 ![alt text](Images/photo3.jpg)
 ![alt text](Images/photo1.jpg)
