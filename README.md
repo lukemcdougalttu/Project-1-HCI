@@ -14,6 +14,6 @@ Some of the Issues with the design of the microwave and its functionality:
 * The kitchen timer is also the 0 button would be nice to have 2 separate buttons.
 ![alt text](Images/microwave-gif.gif)
 * The start and the +30 seconds are on the same button. 
-![alt text](Images/microwave-gif.gif)
+![alt text](Images/start.jpg)
 
 
