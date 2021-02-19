@@ -23,7 +23,7 @@ Some of the Issues with the design of the microwave and its functionality:
 * List your most common uses and other more rare uses of a microwave. Does the interface make doing those common things easier?
 
 * Think about how the user interacts with the microwave. What is the common sequence of actions?
-* 
+
 * How does the microwave support the user figure out how to make it work?
 
 * How does the microwave provide feedback to the user?
