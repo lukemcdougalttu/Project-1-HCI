@@ -60,4 +60,4 @@ Suggest the improvements to make on the control interface. Sketch your solution 
 Here is an example of Low-Fidelity Prototype sketching out the design (for a different purpose).
 
 # My Microwave
-![alt text](Images/mymicrowave.gif)
+![alt text](Images/Mymicrowave.gif)
