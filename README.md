@@ -58,3 +58,6 @@ What are some common mistakes you can make with this current design?
 Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
 
 Here is an example of Low-Fidelity Prototype sketching out the design (for a different purpose).
+
+# My Microwave
+![alt text](Images/mymicrowave.gif)
