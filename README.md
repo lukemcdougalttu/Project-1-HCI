@@ -62,3 +62,5 @@ Here is an example of Low-Fidelity Prototype sketching out the design (for a dif
 
 # My Microwave
 ![alt text](Images/Mymicrowave.gif)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/3deDjnRjE7s)
